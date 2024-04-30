@@ -7,6 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1XH8YakF1t0BFhfdVj4RtNE1zdXvkKXwy
 """
 
+### 2602072552_Alicia Jocelyn Siahaya_UTS_ModelDeployment
+### OOP TRAINING CODE
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
