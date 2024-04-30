@@ -7,6 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1gardDTrsoBDrevpy4sAQOhFUG6TCMFrA
 """
 
+### 2602072552_Alicia Jocelyn Siahaya_UTS_ModelDeployment
+### OOP PREDICTION CODE
+
 import streamlit as st
 import joblib
 import numpy as np
